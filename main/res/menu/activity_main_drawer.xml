@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/record_audio"
+            android:icon="@drawable/presence_audio_online"
+            android:title="Record Audio" />
+        <item
+            android:id="@+id/view_recorded_audios"
+            android:icon="@android:drawable/ic_media_play"
+            android:title="View Recordings" />
+    </group>
+
+
+</menu>
